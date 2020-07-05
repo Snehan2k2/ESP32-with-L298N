@@ -8,5 +8,6 @@ Thus we can see a voltage drop of 0.2 V.
 
 
 Voltage at 5V pin = 4.95 V
+
 Current = 0.47 A
 
